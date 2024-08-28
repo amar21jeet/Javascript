@@ -6,6 +6,7 @@
 let a = "amar"
 a = 4
 // console.log(a)
+//DataTypes in JS
 /* primitive
 1) number ==> range in 2^53
 2) bigint ==> for large numbers
@@ -18,6 +19,5 @@ a = 4
 non-primitives
 1) object
 */ 
-// Data Types in Js
 
 console.log(typeof null)
