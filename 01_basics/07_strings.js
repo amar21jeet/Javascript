@@ -31,8 +31,6 @@ console.log(typeof myName) // object
 // console.log(myName.split("j")); ==> ['Ra', a']
 // console.log(myName.slice(2)); ==> "ja"
 // console.log(myName.replace("Ra", "Do"))
-
-const = 
 console.log(myName.replaceAll("Ra","Amarjeet"))
 
 
